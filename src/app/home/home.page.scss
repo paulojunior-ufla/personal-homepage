@@ -13,3 +13,8 @@ ion-img {
   height: 237px;
   object-fit: cover;
 }
+
+.title {
+  border-bottom: 1px solid var(--ion-color-light);
+  padding-bottom: 10px;
+}
